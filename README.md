@@ -9,7 +9,7 @@ Atualmente atuo no desenvolvimento e manutenção de aplicações para o setor e
 Também desenvolvo projetos independentes, incluindo uma plataforma SaaS para gestão de academias de Jiu-Jitsu.
 
 *   **Live Application:** [gestaocombate.com.br](https://gestaocombate.com.br/) / [taftrack.up.railway.app](https://taftrack.up.railway.app/) / [gestormensal.up.railway.app](https://gestormensal.up.railway.app/)
-*   **Source Code:** [View Repository](https://github.com/karlysonf/jiujitsu)
+
 
 ### 🛠️ Technologies & Tools
 
