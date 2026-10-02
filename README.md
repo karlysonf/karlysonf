@@ -2,13 +2,23 @@
 
 ### Software Developer | Flutter & Dart | Laravel & PHP | PostgreSQL
 
-Desenvolvedor de Software com foco em desenvolvimento mobile com Flutter/Dart e backend com Laravel/PHP.
+# Olá, sou o Karlyson 👋
 
-Atualmente atuo no desenvolvimento e manutenção de aplicações para o setor educacional, trabalhando com aplicações mobile, APIs REST, PostgreSQL, regras de negócio e sistemas em produção.
+**Software Developer** focado em soluções Mobile (**Flutter/Dart**) e Backend (**Laravel/PHP**).
 
-Também desenvolvo projetos independentes, incluindo uma plataforma SaaS para gestão de academias de Jiu-Jitsu.
+Atuo no desenvolvimento e manutenção de sistemas para o **setor educacional**, construindo aplicações mobile, APIs REST robustas, arquitetura de banco de dados PostgreSQL e regras de negócio para sistemas em produção. 
 
-*   **Live Application:** [gestaocombate.com.br](https://gestaocombate.com.br/) / [taftrack.up.railway.app](https://taftrack.up.railway.app/) / [gestormensal.up.railway.app](https://gestormensal.up.railway.app/)
+Paralelamente, desenvolvo produtos SaaS independentes voltados para gestão de negócios e métricas.
+
+---
+
+### 🚀 Projetos em Destaque 
+
+* 🥋 **[Gestão Combate](https://gestaocombate.com.br)** — Plataforma SaaS completa para gestão de academias de artes marciais.
+* 🏃 **[TAF Track](https://taftrack.up.railway.app)** — Aplicação para controle e acompanhamento de testes de aptidão física.
+* 📊 **[Gestor Mensal](https://gestormensal.up.railway.app)** — Sistema web para planejamento e controle de gestão financeira/operacional.
+
+---
 
 
 ### 🛠️ Technologies & Tools
