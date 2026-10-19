@@ -17,7 +17,7 @@ Paralelamente, desenvolvo produtos SaaS independentes voltados para gestão de n
 * 🥋 **[Gestão Combate](https://gestaocombate.com.br)** — Plataforma SaaS completa para gestão de academias de artes marciais.
 * 🏃 **[TAF Track](https://taftrack.up.railway.app)** — Aplicação para controle e acompanhamento de testes de aptidão física.
 * 📊 **[Gestor Mensal](https://gestormensal.up.railway.app)** — Sistema web para planejamento e controle de gestão financeira/operacional.
-
+* 📚 **[Estudo Direcionado](https://estudodirecionado.up.railway.app/)** - PPPE Study / Estudo Direcionado — Aplicação para organização de conteúdos programáticos de concursos públicos e busca direcionada de videoaulas, utilizando TypeScript, Node.js, React, Express.js, YouTube Data API v3 e integração com agentes de IA via MCP.
 ---
 
 
